@@ -1,1 +1,1 @@
-cp - Lists the current processes being run by your computer.
+cp - Copies a file
